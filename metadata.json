@@ -1,0 +1,6 @@
+{
+  "name": "Beacon Exterior Cleaning Services",
+  "description": "Professional exterior cleaning services in the UK, specializing in roof, driveway, patio, gutter, window, and wall cleaning with premium before/after transformations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
